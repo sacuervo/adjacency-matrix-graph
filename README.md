@@ -13,7 +13,7 @@
 2. Add a GraphNode list (variable-size graph) or array (fixed-size graph) as instance attribute
 3. Add an Adjacency Matrix two-dimensional array as instance attribute
 4. Create a constructor with the GraphNode list as parameter. Initialize the adjacency matrix with the graph node list length (it's a square matrix).
-5. Create a method to add an undirected vertex that has the GraphNode indices as parameters
+5. Create a method to add an undirected edge that has the GraphNode indices as parameters
 6. Create a method to print the adjacency matrix
 
 ## Main
